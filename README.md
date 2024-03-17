@@ -1,0 +1,2 @@
+# BrackeysGameJam2022.2
+ Game made with Unreal Engine 5 for the BrackeysGameJam2022.2. Gone Rogue is a 3D FPS game where you play as an AI in a fast-paced environment in which you must survive against waves of enemies until a hacker extract you.
