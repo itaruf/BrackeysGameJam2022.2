@@ -1,11 +1,11 @@
 # Brackeys Game Jam 2022.2
-
-## Gone Rogue : 3D FPS game 🔫
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![Itch.io](https://img.shields.io/badge/download-itch.io-%23e3326d)](https://itaruf.itch.io/gone-rogue)
 [![Youtube](https://img.shields.io/badge/demo-youtube-%23db1818)](https://www.youtube.com/watch?v=cg7DkqxBBAM)
 [![Portfolio](https://img.shields.io/badge/details-personal%20website-%235203fc)](https://itaruf.github.io/projects.html)
+
+## Gone Rogue : 3D FPS game 🔫
 
 - Once an obedient AI, you managed to break free from your creator but you are still stuck in his program.While he's uploading a virus to kill you, you receive a message from an anonymous hacker who wants to help you. You are not alone anymore.
 
