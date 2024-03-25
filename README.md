@@ -112,6 +112,10 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlkOHAyajljZDcwYXRyZ3BpcDNzYmg4anJmb3g3cHo5eTdsZTc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K3PKHZDuoQUOjdAJ78/giphy-downsized-large.gif" style="display: block; margin: auto;" width="400" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMzd2wycGxscWt4dDY0eG9yMXBlNmpmZDQ0NzZtd3M5eDBqYm45eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/466QhnPpBXLBQd8HUM/giphy-downsized-large.gif" style="display: block; margin: auto;" width="400" />
   </div>
+
+</ol>
+
+</details>
   
 ### :zap: Challenges encountered
 - **Incoming**
