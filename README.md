@@ -1,4 +1,4 @@
-# Brackeys Game Jam 2022.2
+## Brackeys Game Jam 2022.2
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![Itch.io](https://img.shields.io/badge/download-itch.io-%23e3326d)](https://itaruf.itch.io/gone-rogue)
